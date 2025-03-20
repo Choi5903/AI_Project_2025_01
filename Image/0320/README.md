@@ -1,5 +1,5 @@
 # IMG2IMG
-![image](Image/0320/Sketch15234.jpg)
+![image](https://github.com/Choi5903/AI_Project_2025_01/blob/main/Image/0320/Sketch15234.jpg?raw=true)
 
 >Prompt
 
@@ -18,4 +18,4 @@
 incorrect hair, outfit mismatch, jacket floating, hairstyle deviation, cropped image, cut-off head, missing upper part, misaligned proportions, strange perspective, outdated anime style, 
 thick outlines, old anime color palette, washed-out colors, extreme cel-shading contrast, out-of-place retro elements, short hair, bob cut, twin tails, hairstyle change, loose hair, messy hair)
 
-![image](Image/0320/00004-3936238872.png)
+![image](https://github.com/Choi5903/AI_Project_2025_01/blob/main/Image/0320/00004-3936238872.png?raw=true)
