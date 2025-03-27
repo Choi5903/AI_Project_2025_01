@@ -36,3 +36,19 @@
 
 ## 라인 아트로 채색
 ![image](https://github.com/Choi5903/AI_Project_2025_01/blob/main/Image/0327/00013-3165207440.png?raw=true)
+
+# Scribble
+
+## 원본 이미지
+![image]()
+
+## Scribble
+![image]()
+
+# OpenPose
+
+## 원본 이미지
+![image]()
+
+## OpenPose
+![image]()
