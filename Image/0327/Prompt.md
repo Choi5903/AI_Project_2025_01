@@ -31,8 +31,8 @@
 
 # 라인 아트
 
-## 원본 이미지지
-![image]()
+## 원본 이미지
+![image](https://github.com/Choi5903/AI_Project_2025_01/blob/main/Image/0327/71993d7eb02473dc809b85c4eab777f6.jpg?raw=true)
 
 ## 라인 아트로 채색
-![image]()
+![image](https://github.com/Choi5903/AI_Project_2025_01/blob/main/Image/0327/00013-3165207440.png?raw=true)
