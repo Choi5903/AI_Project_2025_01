@@ -40,15 +40,15 @@
 # Scribble
 
 ## 원본 이미지
-![image]()
+![image](https://raw.githubusercontent.com/Choi5903/AI_Project_2025_01/refs/heads/main/Image/0327/image.webp)
 
 ## Scribble
-![image]()
+![image](https://github.com/Choi5903/AI_Project_2025_01/blob/main/Image/0327/00017-1316530303.png?raw=true)
 
 # OpenPose
 
 ## 원본 이미지
-![image]()
+![image](https://github.com/Choi5903/AI_Project_2025_01/blob/main/Image/0327/image-asset.jpeg?raw=true)
 
 ## OpenPose
-![image]()
+![image](https://github.com/Choi5903/AI_Project_2025_01/blob/main/Image/0327/00022-3218272354.png?raw=true)
