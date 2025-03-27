@@ -6,7 +6,7 @@
 - 전체적으로 균형 있는 강조  
 - 모든 요소가 고르게 표현됨
 
-![image]()
+![image](https://github.com/Choi5903/AI_Project_2025_01/blob/main/Image/0327/Basic.png?raw=true)
 
 ---
 
@@ -15,7 +15,7 @@
 - 드레스가 시각적으로 가장 강조  
 - 헤어는 최소 강조로 둠
 
-![image]()
+![image](https://github.com/Choi5903/AI_Project_2025_01/blob/main/Image/0327/Dress.png?raw=true)
 
 ---
 
@@ -25,6 +25,6 @@
 - 포즈(구도) 강조  
 - 캐릭터 자세/위치/균형감이 더 두드러지게 표현됨
 
-![image]()
+![image](https://github.com/Choi5903/AI_Project_2025_01/blob/main/Image/0327/Pose.png?raw=true)
 
 ---
